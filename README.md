@@ -3,10 +3,10 @@ the goal of the project is to generate a random "paint by numbers" image by usin
 
 ## examples
 
-![examples/castle.png]
+![example_castle.png]
 
-![examples/castle_output.png]
+![example_castle_output.png]
 
-![examples/stainedglass.png]
+![example_stainedglass.png]
 
-![examples/stainedglass_output.png]
+![example_stainedglass_output.png]
